@@ -2,4 +2,6 @@
 
 ### psycho
 
-※ 異文化交流。文化の違いがわかり始めました。
+> neoruby-debuggerの派生版。
+
+※ 異文化交流、Elixir用のデバッガーです。ElixirLSに依存しています。
