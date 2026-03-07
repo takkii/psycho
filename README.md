@@ -3,7 +3,7 @@
 <div align="center">
   <h2><p>psycho project</p></2>
   <h3><p>This Debugger for Elixir.</p></h3>
-  <h4><p>Dependency is Mason / ElixirLS + Default Settings.</p></h4>
+  <h4><p>Dependency is Mason / ElixirLS + <a href="https://github.com/Zeioth/compiler.nvim/wiki/DAP-support-elixir">Default Settings.</a></p></h4>
   <h4><p>origin <a href="https://github.com/takkii/neoruby-debugger">neoruby-debugger</a>. </p></h4>
   <h4><p>※I Think Culture Shock⚡️</p></h4>
 </div>
