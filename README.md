@@ -1,9 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) 
 
-### psycho
-
-This Debugger for Elixir, Dependency is Mason / ElixirLS.
-
-> origin neoruby-debugger.
-
-_※ Culture Shock!_
+<div align="center">
+  <h2><p>psycho project</p></2>
+  <h3><p>This Debugger for Elixir.</p></h3>
+  <h4><p>Dependency is Mason / ElixirLS + Default Settings.</p></h4>
+  <h4><p>origin <a href="https://github.com/takkii/neoruby-debugger">neoruby-debugger</a>. </p></h4>
+  <h4><p>※I Think Culture Shock⚡️</p></h4>
+</div>
