@@ -7,5 +7,6 @@
   <hr />
   <h4><p>Dependency is Mason / ElixirLS + <a href="https://github.com/Zeioth/compiler.nvim/wiki/DAP-support-elixir">Default Settings.</a></p></h4>
   <h4><p>zoltraak project is "<a href="https://github.com/takkii/cross">cross</a> project" derivative versions.</p></h4>
+  <h4><p>Please readme documents to <a href="https://github.com/takkii/zoltraak/wiki/manual">here</a>.</p></h4>
   <hr />
 </div>
