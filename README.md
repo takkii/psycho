@@ -2,7 +2,7 @@
 
 <div align="center">
   <hr />
-  <img src="./images/aria.gif">
+  https://github.com/user-attachments/assets/945a5adb-1c63-427a-b745-5c2901bab711
   <h3><p>This Debugger for Elixir.</p></h3>
   <hr />
   <h4><p>Dependency is Mason / ElixirLS + <a href="https://github.com/Zeioth/compiler.nvim/wiki/DAP-support-elixir">Default Settings.</a></p></h4>
